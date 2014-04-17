@@ -1,4 +1,4 @@
-#compdef VBoxManage=vboxmanage VBoxHeadless=vboxheadless
+#compdef VBoxManage=vboxmanage VBoxHeadless=vboxheadless vboxmanage=vboxmanage vboxheadless=vboxheadless
 # ------------------------------------------------------------------------------
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
